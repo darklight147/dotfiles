@@ -1,0 +1,12 @@
+.less-history-file:
+.search
+"regex
+"negat
+"inverse
+"reverse
+"taint
+"-e
+"-k
+"-F
+"-r
+"-q
